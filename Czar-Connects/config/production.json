@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://golu:golu123@cluster0.df9nq.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "AC1C3E5820F38350B1A76F51C89149CFF10B9E672B9D5096907B1EB9ECCDC8C1",
+    "githubToken": "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"
+  }
